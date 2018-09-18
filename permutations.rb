@@ -13,7 +13,7 @@ end
 def permutations
     for i in 1...7
         for j in 1...7
-        puts "#{i} + #{j}"
+        puts "#{i} + #{j} = #{i + j}"
 
         end
     end
